@@ -8,6 +8,10 @@ namespace VariousTypes
         {
             int num = 52;
             Console.WriteLine(num);
+
+            char x = '\u2573';
+            Console.WriteLine(x);
+
         }
 
     }
