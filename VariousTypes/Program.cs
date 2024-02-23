@@ -15,6 +15,9 @@ namespace VariousTypes
             decimal z = 3.1451m;
             Console.WriteLine(z);
 
+            bool condition = false;
+            Console.WriteLine(condition);
+
         }
 
     }
