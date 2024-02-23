@@ -12,6 +12,9 @@ namespace VariousTypes
             char x = '\u2573';
             Console.WriteLine(x);
 
+            decimal z = 3.1451m;
+            Console.WriteLine(z);
+
         }
 
     }
